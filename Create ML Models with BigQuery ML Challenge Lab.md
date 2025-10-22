@@ -1,5 +1,4 @@
-## Create ML Models with BigQuery ML: Challenge Lab 
-
+## BigQuery ML Project – Predicting Customer Purchase
 
 ### Task 1. Create a new dataset
 * Open BigQuery
